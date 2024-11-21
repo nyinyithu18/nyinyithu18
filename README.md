@@ -2,7 +2,7 @@
 
 👀 I like coding and am interested in new technologies.
 
-🌱 I’m currently learning React and OCA exam.
+🌱 I’m currently learning Next js.
 
 🤝 I’m looking to collaborate on for full-stack projects.
 
