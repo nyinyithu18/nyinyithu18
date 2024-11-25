@@ -2,9 +2,9 @@
 
 👀 I like coding and am interested in new technologies.
 
-🌱 I’m currently learning Next js.
+🌱 I’m currently learning Next js and Json Web Token(jwt).
 
-🤝 I’m looking to collaborate on for full-stack projects.
+🤝 I’m looking to collaborate on for admin dashboard full-stack projects using React js, Spring and Postgres tech.
 
 📫 How to reach me [nyithu185@gmail.com](nyithu185@gmail.com) and [facebook](https://www.facebook.com/nyii.n.thuu).
 
